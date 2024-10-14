@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background-color: #3977AB;
+    background-color:#3977AB;
     height: 100px;
     display: flex;
     justify-content: center; /* Centraliza horizontalmente */

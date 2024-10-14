@@ -11,6 +11,7 @@ body{
 
 header{
     background-color: #0071BC;
+    height: 100px;
     display: flex;
     justify-content: center; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
@@ -18,7 +19,7 @@ header{
 }
 
 header img{
-    height: 120px;
+    height: 60px;
 }
 
 main h3{
@@ -31,13 +32,13 @@ main h3{
 span#pesquisa{
     color: white;
     font-size: 30px;
-    margin-left: 150px;
+    margin-left: 129px;
 }
 
 span#menu{
     color: white;
     font-size: 30px;
-    margin-right: 70px;
+    margin-right: 48px;
 }
 
 main#main2 h1{

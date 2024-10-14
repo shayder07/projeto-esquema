@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+}
+
+header{
+    background-color: #0071BC;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header img{
+    height: 120px;
+}
+
+main h3{
+    font-family: "Roboto Slab", serif;
+    font-size: 0.9em;
+    padding: 10px;
+   color: #28A7E3; 
+}
+
+span#pesquisa{
+    color: white;
+    font-size: 45px;
+    margin-left: 150px;
+}
+

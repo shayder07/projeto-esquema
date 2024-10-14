@@ -30,7 +30,19 @@ main h3{
 
 span#pesquisa{
     color: white;
-    font-size: 45px;
+    font-size: 30px;
     margin-left: 150px;
 }
 
+span#menu{
+    color: white;
+    font-size: 30px;
+    margin-right: 70px;
+}
+
+main#main2 h1{
+    font-family: "Roboto Slab", serif;
+    padding: 15px;
+    font-size: 35px;
+    line-height: 1.6em;
+}
